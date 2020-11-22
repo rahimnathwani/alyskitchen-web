@@ -3,6 +3,7 @@ templateKey: index-page
 title: Aly’s Lunchbox
 image: /img/home-jumbotron.jpg
 heading: Our inspiration
+subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Introducing Aly’s Lunchbox
   description: >-
@@ -14,7 +15,6 @@ mainpitch:
 
 
     Our current project is giving out homemade food boxes to our local key workers, as they have been working non stop since the start of this pandemic to help us all. Having key workers of our own in the family, we know what a good home cooked meal means during a gruelling 12 hour shift!
-subheading: Support sustainable farming while enjoying a cup
 description: Meet Aly. Born and raised in Uganda, he came from humble beginnings
   and worked very hard to provide his best for his family. He was a loving
   husband, father, grandfather and friend to many and was known especially in
@@ -58,6 +58,8 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
+  heading: test
+  description: test
 main:
   heading: Great coffee with no compromises
   description: >
